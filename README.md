@@ -167,16 +167,19 @@ print(confusionMatrix)
 ![image](https://github.com/user-attachments/assets/eb8f6bda-d4b2-4659-9f87-f4590c24658d)
 ```
 accuracy_score=accuracy_score(test_y, prediction)
-print(accuracy_score)```
+print(accuracy_score)
+```
 
 ![image](https://github.com/user-attachments/assets/3aaf9ff8-de60-48bd-b3de-6986a220b281)
+
 ```
 print('Misclassified samples: %d' % (test_y !=prediction).sum())
 ```
 
 ![image](https://github.com/user-attachments/assets/8ab9aff8-d6bc-4def-ad10-5590ca951788)
 ```
-data.shape```
+data.shape
+```
 
 ![image](https://github.com/user-attachments/assets/341f20ae-ac82-44a6-b002-ac204d1a2e24)
 ```
