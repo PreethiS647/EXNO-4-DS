@@ -5,9 +5,13 @@ data to a file.
 
 # ALGORITHM:
 STEP 1:Read the given Data.
+
 STEP 2:Clean the Data Set using Data Cleaning Process.
+
 STEP 3:Apply Feature Scaling for the feature in the data set.
+
 STEP 4:Apply Feature Selection for the feature in the data set.
+
 STEP 5:Save the data to the file.
 
 # FEATURE SCALING:
@@ -224,8 +228,7 @@ print("Selected Features:")
 print(selected_features)
 ```
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/c11336c7-fbaf-45ac-9fa2-0325a97b0f55)
 
 # RESULT:
        Thus  Feature Scaling and Feature Selection process and save the data to a file.
